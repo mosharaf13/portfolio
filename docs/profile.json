@@ -1,14 +1,14 @@
 {
   "firstName": "Md Mosharaf",
   "lastName": "Hossan",
-  "phone": "+8801753773427",
+  "phone": "+1 208 406 7454",
   "email": "mosharafkuet@gmail.com",
   "location": {
-    "address": "Nikunja 2, Khilkhet",
-    "city": "Dhaka",
-    "country": "Bangladesh"
+    "address": "Pocatello",
+    "city": "Idaho",
+    "country": "United States"
   },
-  "position": "Senior Software Engineer",
+  "position": "Graduate Teaching assistant",
   "birthday": "1996/12/17",
   "aboutMe": "Over the last 4 years, I have been working on various types of consumer and business-facing projects using Laravel and VueJs. I had the chance to develop some exciting projects such as a GPS based vehicle tracking system, a digital content marketplace, and a management tool for construction farms.\n\nAt my current workplace, we are currently developing projects that aim to automate operational and troubleshooting processes of telecom companies.\n\nI graduated from Khulna University of Engineering & Technology in Computer Science and Engineering in 2018."
 }
